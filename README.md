@@ -2,7 +2,7 @@
 
 # FRED_Sogang
 Fred지표 가져오기 위한 깃페이지
-https://jaden-jaehoonkim.github.io/FredSogang/
+https://jaden-jaehoon.github.io/Fred_sge/
 
 # 세계 경기 후퇴의 전조증상
 ## 1. 첫번째로 살펴볼 지표는 [ 한국 수출 변화 ] 와 [ 미국 매출대비 재고비율 ] , [ 미국 경기 선행지수 ]
