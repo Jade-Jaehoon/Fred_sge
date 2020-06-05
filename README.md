@@ -1,6 +1,3 @@
-# Fred_sge
-
-# FRED_Sogang
 Fred지표 가져오기 위한 깃페이지
 https://jaden-jaehoon.github.io/Fred_sge/
 
