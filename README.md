@@ -166,7 +166,15 @@ style="width:975px; height:460px;"></iframe>
 
 
 
+Lamda is a diagonal matrix  &  The equal sign should be deleted in the formula inverse of C Matrix 
 
-<iframe src="https://finviz.com/publish/031920/sec_214653207.png"
-style="width:975px; height:660px;"></iframe>
+[original notebook]
+![Screenshot from 2020-06-06 22-05-07](https://user-images.githubusercontent.com/40931326/83945021-b3702300-a842-11ea-8275-3754c0c47117.png)
+
+[modified version]
+![Screenshot from 2020-06-06 22-08-13](https://user-images.githubusercontent.com/40931326/83945026-b9fe9a80-a842-11ea-8b17-40262f2e0bc5.png)
+
+
+
+
 
